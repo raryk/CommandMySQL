@@ -1,0 +1,6 @@
+name: CommandMySQL
+version: 1.0
+main: me.raryk.commandmysql.bukkit.CommandMySQL
+api-version: 1.13
+authors: [ raryk ]
+description: Run command with MySQL

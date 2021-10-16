@@ -1,0 +1,16 @@
+server: "global"
+
+storage_mysql:
+  hostname: "hostname"
+  username: "username"
+  password: "password"
+  database: "database"
+  port: "3306"
+
+  table_commands: "run_commands"
+  column_commands:
+    id: "command_id"
+    status: "command_status"
+    server: "command_server"
+    player: "command_player"
+    command: "command_command"

@@ -1,0 +1,3 @@
+name: CommandMySQL
+version: 1.0
+main: me.raryk.commandmysql.bungee.CommandMySQL
